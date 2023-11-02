@@ -24,3 +24,7 @@ header {
     z-index: 1000;
     position: fixed;
 }
+
+.logo-title {
+    cursor: pointer;
+}
