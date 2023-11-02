@@ -12,3 +12,7 @@ body {
     font-family: "Zen Antique", serif;
     color: white;
 }
+
+html {
+    font-size: 62.5%; /* font-size 10px */
+}
