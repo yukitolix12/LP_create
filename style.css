@@ -39,4 +39,5 @@ header img {
     background-image: url("./images/another-world.jpg");
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
