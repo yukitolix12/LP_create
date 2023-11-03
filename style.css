@@ -17,6 +17,11 @@ html {
     font-size: 62.5%; /* font-size 10px */
 }
 
+h2, 
+h3 {
+    font-size: 3rem;
+}
+
 header {
     padding: 2.7rem 5.4rem;
     text-shadow: black 1px 3px 6px;
