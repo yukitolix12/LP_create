@@ -37,4 +37,5 @@ header img {
 /* hero section */
 .hero {
     background-image: url("./images/another-world.jpg");
+    background-position: center;
 }
