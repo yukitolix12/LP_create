@@ -49,3 +49,9 @@ header img {
     text-shadow: black 1px 3px 6px;
     font-size: 7.5rem;
 }
+
+.hero h3 {
+    width: 450px;
+    text-align: right;
+    text-shadow: black 1px 3px 6px;
+}
