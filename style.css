@@ -101,3 +101,13 @@ header img {
         text-align: center;
     }
 }
+
+@media (max-width: 576px) {
+    html {
+        font-size: 45%;
+    }
+
+    .hero h3 {
+        font-size: 2rem;
+    }
+}
