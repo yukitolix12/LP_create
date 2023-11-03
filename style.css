@@ -73,3 +73,15 @@ header img {
     text-align: right;
     text-shadow: black 1px 3px 6px;
 }
+
+/* media query */
+@media (max-width: 1000px) {
+    .hero h1 {
+        font-size: 5rem;
+    }
+
+    .hero h3 {
+        width: 400px;
+        font-size: 3rem;
+    }
+}
