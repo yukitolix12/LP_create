@@ -85,3 +85,19 @@ header img {
         font-size: 3rem;
     }
 }
+
+@media (max-width: 768px) {
+    .hero title {
+        transform: translateY(-50px);
+        text-align: center;
+    }
+
+    .hero h1 {
+        font-size: 6rem;
+    }
+
+    .hero h3 {
+        width: 100%;
+        text-align: center;
+    }
+}
