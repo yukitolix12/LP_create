@@ -74,6 +74,11 @@ header img {
     text-shadow: black 1px 3px 6px;
 }
 
+/* sale section */
+.sale h2 {
+    font-size: 4rem;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
