@@ -88,6 +88,11 @@ header img {
     font-size: 3rem;
 }
 
+.sale img {
+    width: 100%;
+    height: 100%;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
