@@ -111,6 +111,11 @@ header img {
     letter-spacing: 0.1rem;
 }
 
+.game-card:hover {
+    box-shadow: none;
+    transform: translateY(4px);
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
