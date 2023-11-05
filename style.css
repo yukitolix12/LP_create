@@ -97,6 +97,10 @@ header img {
     box-shadow: var(--box-shadow);
 } 
 
+.game-card {
+    background-color: rgb(255, 255,255);
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
