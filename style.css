@@ -107,6 +107,8 @@ header img {
 
 .game-card p {
     font-size: 1.7rem;
+    line-height: 1.8rem;
+    letter-spacing: 0.1rem;
 }
 
 /* media query */
