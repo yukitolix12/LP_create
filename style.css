@@ -101,6 +101,10 @@ header img {
     background-color: rgb(255, 255,255);
 }
 
+.game-card h5 {
+    font-size: 2rem;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
