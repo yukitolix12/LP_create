@@ -116,6 +116,14 @@ header img {
     transform: translateY(4px);
 }
 
+/* company section */
+.company {
+    background-image: url('./images/house.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
