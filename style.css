@@ -93,6 +93,10 @@ header img {
     height: 100%;
 }
 
+.card-effect {
+    box-shadow: var(--box-shadow);
+} 
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
