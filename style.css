@@ -155,6 +155,12 @@ header img {
     left: 7%;
 }
 
+.company-info .more a {
+    font-size: 1.7rem;
+    color: white;
+    padding: 0.6rem;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
