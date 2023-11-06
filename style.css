@@ -161,6 +161,11 @@ header img {
     padding: 0.6rem;
 }
 
+.company-info .more a:hover {
+    color: aquamarine;
+    transform: translateX(1rem);
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
