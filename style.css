@@ -149,6 +149,12 @@ header img {
     line-height: 3.9rem;
 }
 
+.company-text-last {
+    position: absolute;
+    top: 70%;
+    left: 7%;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
