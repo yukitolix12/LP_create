@@ -156,6 +156,7 @@ header img {
 }
 
 .company-info .more a {
+    display: inline-block;
     font-size: 1.7rem;
     color: white;
     padding: 0.6rem;
