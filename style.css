@@ -181,6 +181,13 @@ header img {
     overflow: hidden;
 }
 
+.hardware-card h3 {
+    position: absolute;
+    color: white;
+    font-size: 4rem;
+    opacity: 0;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
