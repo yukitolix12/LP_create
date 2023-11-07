@@ -218,4 +218,9 @@ header img {
     .company-info h2 {
         margin-bottom: 4.6rem;
     }
+
+    .company-info p {
+        line-height: 5rem;
+        font-size: 2.2rem;
+    }
 }
