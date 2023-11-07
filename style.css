@@ -209,4 +209,9 @@ header img {
         text-align: center !important;
         padding: 2rem !important;
     }
+
+    .company-text-last {
+        position: static;
+        margin-top: 30rem;
+    }
 }
