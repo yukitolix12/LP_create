@@ -203,4 +203,9 @@ header img {
     .hero h3 {
         font-size: 2rem;
     }
+
+    /* company section */
+    .company-info {
+        text-align: center;
+    }
 }
