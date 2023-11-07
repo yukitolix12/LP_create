@@ -206,6 +206,6 @@ header img {
 
     /* company section */
     .company-info {
-        text-align: center;
+        text-align: center !important;
     }
 }
