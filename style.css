@@ -214,4 +214,8 @@ header img {
         position: static;
         margin-top: 30rem;
     }
+
+    .company-info h2 {
+        margin-bottom: 4.6rem;
+    }
 }
