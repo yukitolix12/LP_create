@@ -188,6 +188,10 @@ header img {
     opacity: 0;
 }
 
+.hardware-card:hover img {
+    transform: scale(1.1);
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
