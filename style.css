@@ -191,7 +191,7 @@ header img {
 .hardware-card .overlay {
     content: "";
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: #000;
     width: 100%;
     height: 100%;
     top: 0;
