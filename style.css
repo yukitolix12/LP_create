@@ -199,6 +199,11 @@ header img {
     opacity: 0;
 }
 
+.hardware-card:hover .overlay {
+    background-color: rgb(13, 71, 92);
+    opacity: 0.3;
+}
+
 .hardware-card:hover img {
     transform: scale(1.1);
 }
