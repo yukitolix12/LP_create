@@ -212,6 +212,14 @@ header img {
     opacity: 1;
 }
 
+/* contact section */
+.contact {
+    background-image: url("./images/butterfly.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
