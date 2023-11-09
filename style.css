@@ -229,6 +229,13 @@ header img {
     width: 70%;
 }
 
+.contact .vision-sight-logo h3 {
+    position: absolute;
+    bottom: 10%;
+    right: 8%;
+    font-size: 4rem;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
