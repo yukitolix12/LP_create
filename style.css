@@ -225,6 +225,10 @@ header img {
     margin-bottom: 2rem;
 }
 
+.contact textarea {
+    width: 70%;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
