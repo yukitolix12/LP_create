@@ -289,4 +289,10 @@ header img {
     .company-info .more {
         margin-top: 9rem;
     }
+
+    /* contact section */
+    .contact h2 {
+        font-size: 4.6rem;
+        text-align: center;
+    }
 }
