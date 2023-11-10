@@ -247,6 +247,11 @@ footer h2 {
     height: 50%;
 }
 
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
