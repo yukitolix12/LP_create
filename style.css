@@ -252,6 +252,10 @@ footer a {
     color: white;
 }
 
+footer a:hover {
+    color: aquamarine;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
