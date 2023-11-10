@@ -236,6 +236,12 @@ header img {
     font-size: 4rem;
 }
 
+/* footer section */
+footer {
+    padding: 40px;
+    font-size: 2rem;
+}
+
 /* media query */
 @media (max-width: 1000px) {
     .hero h1 {
