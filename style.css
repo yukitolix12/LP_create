@@ -86,6 +86,10 @@ header .book-open-btn.active{
     display: block;
 }
 
+header .book-close-btn {
+    display: block;
+}
+
 .logo-title {
     cursor: pointer;
 }
