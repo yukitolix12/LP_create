@@ -322,4 +322,9 @@ footer a:hover {
         font-size: 4.6rem;
         text-align: center;
     }
+
+    /* footer section */
+    footer {
+        padding-top:15px;
+    }
 }
