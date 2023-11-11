@@ -90,6 +90,10 @@ header .book-close-btn {
     display: block;
 }
 
+header .book-close-btn.active {
+    display: none;
+}
+
 .logo-title {
     cursor: pointer;
 }
