@@ -58,6 +58,10 @@ header .menu-bar {
     box-shadow: var(--box-shadow);
 }
 
+header .menu-bar li {
+    margin-bottom: 3rem;
+}
+
 .logo-title {
     cursor: pointer;
 }
