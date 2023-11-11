@@ -78,6 +78,14 @@ header .menu-bar li a:hover {
     color: aquamarine;
 }
 
+header .book-open-btn {
+    display: none;
+}
+
+header .book-open-btn.active{
+    display: block;
+}
+
 .logo-title {
     cursor: pointer;
 }
