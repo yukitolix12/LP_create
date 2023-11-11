@@ -59,6 +59,11 @@ header .menu-bar {
     opacity: 0;
 }
 
+header .menu-bar .active {
+    right: -20px;
+    opacity: 1;
+}
+
 header .menu-bar li {
     margin-bottom: 3rem;
 }
