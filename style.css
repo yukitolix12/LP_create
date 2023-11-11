@@ -43,6 +43,32 @@ header {
     position: fixed;
 }
 
+.logo-title {
+    cursor: pointer;
+}
+
+header img {
+    width: 3.5rem;
+}
+
+/*--- book-javascript ---*/
+
+header .book-close-btn {
+    display: block;
+}
+
+header .book-close-btn.active {
+    display: none;
+}
+
+header .book-open-btn {
+    display: none;
+}
+
+header .book-open-btn.active{
+    display: block;
+}
+
 /* menubar-section */
 header .menu-bar {
     position: absolute;
@@ -78,30 +104,8 @@ header .menu-bar li a:hover {
     color: aquamarine;
 }
 
-header .book-open-btn {
-    display: none;
-}
 
-header .book-open-btn.active{
-    display: block;
-}
 
-header .book-close-btn {
-    display: block;
-}
-
-header .book-close-btn.active {
-    display: none;
-}
-
-.logo-title {
-    cursor: pointer;
-}
-
-header img {
-    width: 3.5rem;
-    cursor: pointer;
-}
 
 /* hero section */
 .hero {
