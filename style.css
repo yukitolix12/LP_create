@@ -68,6 +68,10 @@ header .menu-bar li a {
     font-size: 2rem;
 }
 
+header .menu-bar li a:hover {
+    color: aquamarine;
+}
+
 .logo-title {
     cursor: pointer;
 }
