@@ -43,6 +43,21 @@ header {
     position: fixed;
 }
 
+/* menubar-section */
+header .menu-bar {
+    position: absolute;
+    top: 30vh;
+    right: -20px;
+    background: #000;
+    width: 170px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2rem;
+    box-shadow: var(--box-shadow);
+}
+
 .logo-title {
     cursor: pointer;
 }
