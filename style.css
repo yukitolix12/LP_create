@@ -85,7 +85,7 @@ header .menu-bar {
     opacity: 0;
 }
 
-header .menu-bar .active {
+header .menu-bar.active {
     right: -20px;
     opacity: 1;
 }

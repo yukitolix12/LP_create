@@ -10,6 +10,7 @@ bookCloseNav.onclick = () => {
 
 bookOpenNav.onclick = () => {
     menuBar.classList.toggle("active");
-    bookCloseNav.classList.toggle("active");
     bookOpenNav.classList.toggle("active");
+    bookCloseNav.classList.toggle("active");
+    
 };
